@@ -13,5 +13,4 @@ Abstract
 Collaborators
 - BUGNOT, Reinelle
 - COLLANTO, Angelica
-- MORES, Lucky
 - VILLAREAL, Rosiel
